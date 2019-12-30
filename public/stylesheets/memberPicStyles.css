@@ -1,0 +1,734 @@
+#Ari{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Ari:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Ben{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Ben:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Dahlia{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Dahlia:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Cathy{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Cathy:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#KatherineO{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:3%;
+	padding-bottom:3%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#KatherineO:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Prince{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:3%;
+	padding-bottom:3%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Prince:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Abby{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Abby:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Austin{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Austin:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Carter{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Carter:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Christine{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Christine:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Mitchell{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:3%;
+	padding-bottom:3%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Mitchell:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Alex{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Alex:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Amr{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Amr:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Destiny{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Destiny:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Grace{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Grace:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#KatherineB{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:3%;
+	padding-bottom:3%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#KatherineB:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Linus{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Linus:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Mabelle{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Mabelle:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Michael{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Michael:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Santi{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Santi:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Sara{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Sara:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Shana{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Shana:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Uwa{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Uwa:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Annika{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Annika:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Esther{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:3%;
+	padding-bottom:3%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Esther:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Joanne{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Joanne:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Michaela{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Michaela:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Nathan{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Nathan:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Rachel{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Rachel:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Ruby{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Ruby:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Sarah{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Sarah:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Terrence{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Terrence:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Xavier{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Xavier:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Luna{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Luna:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
+
+#Paul{
+	background:url("/images/Sara.jpeg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Paul:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background-size:cover;
+	color:white;
+}
