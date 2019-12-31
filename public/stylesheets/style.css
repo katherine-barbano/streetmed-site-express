@@ -90,7 +90,7 @@ body {
 
 
 #aboutBox{
-	background:url("/images/LNYShowcase.jpg");
+	background:url("/images/LNYShowcase.png");
 	background-size:cover;
 	padding-top:20%;
 	padding-bottom:20%;
@@ -110,7 +110,7 @@ body {
 }
 
 #membersBox{
-	background:url("/images/HocoDance.jpg");
+	background:url("/images/HocoDance.png");
 	background-size:cover;
 	padding-top:20%;
 	padding-bottom:20%;
