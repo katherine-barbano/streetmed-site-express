@@ -1,5 +1,6 @@
 body {
   font-family:Helvetica;
+  padding-top:50px;
 }
 
 .navbar-default{
@@ -76,8 +77,8 @@ body {
 #homeAbout{
 	color:black;
 	background-color:#D3E6EB;
-	padding-top:5%;
-	padding-bottom:5%;
+	padding-top:10%;
+	padding-bottom:10%;
 	padding-right:20%;
 	padding-left:20%;
 	text-align:justify;
@@ -161,8 +162,8 @@ i:hover{
 
 #aboutTitle{
 	text-align:center;	
-	background:url("/images/PRSMClout.jpeg") center fixed;
-	background-size:cover;
+	background:url("/images/PRSMClout.jpeg") fixed;
+	background-size:100% auto;
 	padding-top:25%;
 	padding-bottom:25%;
 	padding-right:30%;
@@ -194,12 +195,10 @@ i:hover{
 
 #membersTitle{
 	text-align:center;	
-	background:url("/images/Kazi2019.jpg") center fixed;
-	background-size:cover;
+	background:url("/images/Kazi2019.jpg") fixed;
+	background-size:100% auto;
 	padding-top:25%;
 	padding-bottom:25%;
-	padding-right:30%;
-	padding-left:30%;
 
 }
 
@@ -231,6 +230,7 @@ i:hover{
 
 #membersExec h1{
 	padding:2%;
+	font-size:30px;
 }
 
 #membersExec p{
@@ -239,7 +239,7 @@ i:hover{
 
 #membersAlum{
 	background-color:#D3E6EB;
-	font-size:17px;
+	font-size:2vw;
 	color:black;
 	text-align:center;
 	padding:5%;
@@ -256,12 +256,10 @@ td{
 
 #mediaTitle{
 	text-align:center;	
-	background:url("/images/SZNVReveal.jpeg") center fixed;
-	background-size:cover;
+	background:url("/images/SZNVReveal.jpeg") fixed;
+	background-size:100% auto;
 	padding-top:25%;
 	padding-bottom:25%;
-	padding-right:30%;
-	padding-left:30%;
 
 }
 
@@ -294,8 +292,8 @@ iframe{
 
 #contactTitle{
 	text-align:center;	
-	background:url("/images/ShowcaseKazi.jpeg") center fixed;
-	background-size:cover;
+	background:url("/images/ShowcaseKazi.jpeg") fixed;
+	background-size:100% auto;
 	padding-top:25%;
 	padding-bottom:25%;
 	padding-right:30%;
@@ -322,12 +320,20 @@ iframe{
 	text-align:center;
 	color:black;
 	font-size:30px;
-	padding:5%;
+	padding-top:5%;
+}
+
+#contact h4{
+	text-align:center;
+	color:black;
+	font-size:20px;
+	padding-bottom:5%;
 }
 
 #contactA:link{
 	color: 	#303030;
 }
+
 
 #iA:hover{
 	color:gray;
