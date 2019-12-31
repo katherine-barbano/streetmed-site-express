@@ -16,7 +16,6 @@
     "express": "~4.16.1",
     "helmet": "^3.21.2",
     "http-errors": "~1.6.3",
-    "morgan": "~1.9.1",
-    "xml.js": "0.0.8"
+    "morgan": "~1.9.1"
   }
 }
