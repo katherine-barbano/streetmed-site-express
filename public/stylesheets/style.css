@@ -49,12 +49,14 @@ body {
 
 
 #homeTitle{
-	background:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("/images/SparkGroupPic.jpg") center fixed;
-	background-size:cover;
-	padding-top:15%;
-	padding-bottom:20%;
-	padding-right:20%;
+	background:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("/images/SparkGroupPic.jpg")  fixed;
+	background-size:100% auto;
+	background-repeat:no-repeat;
+	padding-top:10%;
 	padding-left:20%;
+	padding-right:20%;
+	padding-bottom:15%;
+	background-color:#D3E6EB;
 
 }
 
@@ -62,12 +64,13 @@ body {
 	text-align:center;
 	color:white;
 	font-weight:bold;
-	font-size:8vw;
+	font-size:7vw;
 }
 
 #homeTitle h4{
 	text-align:center;
 	color:white;
+	font-size:3vw;
 }
 
 #homeAbout{
@@ -78,7 +81,7 @@ body {
 	padding-right:20%;
 	padding-left:20%;
 	text-align:justify;
-	font-size:2.5vw;
+	font-size:3vw;
 }
 
 #homeBoxes{
