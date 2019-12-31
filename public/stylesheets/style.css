@@ -1,6 +1,5 @@
 body {
   font-family:Helvetica;
-  position:absolute;
 }
 
 .navbar-default{
@@ -63,7 +62,7 @@ body {
 	text-align:center;
 	color:white;
 	font-weight:bold;
-	font-size:90px;
+	font-size:8vw;
 }
 
 #homeTitle h4{
@@ -79,7 +78,7 @@ body {
 	padding-right:20%;
 	padding-left:20%;
 	text-align:justify;
-	font-size:30px;
+	font-size:2.5vw;
 }
 
 #homeBoxes{
