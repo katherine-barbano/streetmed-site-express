@@ -102,7 +102,7 @@ body {
 }
 
 #aboutBox:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("/images/LNYShowcase.jpg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("/images/LNYShowcase.png");
 	background-size:cover;
 	padding-top:20%;
 	padding-bottom:20%;
@@ -122,7 +122,7 @@ body {
 }
 
 #membersBox:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("/images/HocoDance.jpg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("/images/HocoDance.png");
 	background-size:cover;
 	padding-top:20%;
 	padding-bottom:20%;
