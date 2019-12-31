@@ -1,6 +1,6 @@
 body {
   font-family:Helvetica;
-  position:fixed;
+  position:absolute;
 }
 
 .navbar-default{
