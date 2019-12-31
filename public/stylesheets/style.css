@@ -1,8 +1,6 @@
-html{
-	width:100%;
-}
 body {
   font-family:Helvetica;
+  position:fixed;
 }
 
 .navbar-default{
