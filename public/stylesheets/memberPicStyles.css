@@ -251,7 +251,7 @@
 }
 
 #Amr{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/amr.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -266,7 +266,7 @@
 }
 
 #Amr:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/amr.jpg");
 	background-size:cover;
 	color:white;
 }
@@ -440,7 +440,7 @@
 }
 
 #Shana{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/shana.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -455,7 +455,7 @@
 }
 
 #Shana:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/shana.jpg");
 	background-size:cover;
 	color:white;
 }
@@ -650,7 +650,7 @@
 }
 
 #Terrence{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/terrence.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -665,7 +665,7 @@
 }
 
 #Terrence:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/terrence.jpg");
 	background-size:cover;
 	color:white;
 }
