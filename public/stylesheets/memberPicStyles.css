@@ -461,7 +461,7 @@
 }
 
 #Uwa{
-	background:url("/images/memberpics/uwa.jpg");
+	background:url("/images/memberpics/uwa.png");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -476,7 +476,7 @@
 }
 
 #Uwa:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/uwa.jpg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/uwa.png");
 	background-size:cover;
 	color:white;
 }
@@ -524,7 +524,7 @@
 }
 
 #Joanne{
-	background:url("/images/memberpics/joanne.jpg");
+	background:url("/images/memberpics/joanne.png");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -539,7 +539,7 @@
 }
 
 #Joanne:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/joanne.jpg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/joanne.png");
 	background-size:cover;
 	color:white;
 }
@@ -566,7 +566,7 @@
 }
 
 #Nathan{
-	background:url("/images/memberpics/nathan.jpg");
+	background:url("/images/memberpics/nathan.png");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -581,7 +581,7 @@
 }
 
 #Nathan:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/nathan.jpg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/nathan.png");
 	background-size:cover;
 	color:white;
 }
