@@ -1,5 +1,5 @@
 #Ari{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/ari.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -14,13 +14,13 @@
 }
 
 #Ari:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/ari.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Ben{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/ben.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -35,7 +35,7 @@
 }
 
 #Ben:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/ben.jpg");
 	background-size:cover;
 	color:white;
 }
@@ -62,7 +62,7 @@
 }
 
 #Cathy{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/cathy.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -77,13 +77,13 @@
 }
 
 #Cathy:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/cathy.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #KatherineO{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/katherineo.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:3%;
@@ -98,13 +98,13 @@
 }
 
 #KatherineO:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/katherineo.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Prince{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/prince.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:3%;
@@ -119,13 +119,13 @@
 }
 
 #Prince:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/prince.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Abby{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/abby.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -140,13 +140,13 @@
 }
 
 #Abby:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/abby.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Austin{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/austin.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -161,7 +161,7 @@
 }
 
 #Austin:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/austin.jpg");
 	background-size:cover;
 	color:white;
 }
@@ -188,7 +188,7 @@
 }
 
 #Christine{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/christine.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -203,13 +203,13 @@
 }
 
 #Christine:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/christine.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Mitchell{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/mitchell.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:3%;
@@ -224,7 +224,7 @@
 }
 
 #Mitchell:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/mitchell.jpg");
 	background-size:cover;
 	color:white;
 }
@@ -272,7 +272,7 @@
 }
 
 #Destiny{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/destiny.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -287,7 +287,7 @@
 }
 
 #Destiny:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/destiny.jpg");
 	background-size:cover;
 	color:white;
 }
@@ -335,7 +335,7 @@
 }
 
 #Linus{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/linus.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -350,13 +350,13 @@
 }
 
 #Linus:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/linus.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Mabelle{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/mabelle.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -371,13 +371,13 @@
 }
 
 #Mabelle:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/mabelle.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Michael{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/michael.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -392,13 +392,13 @@
 }
 
 #Michael:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/michael.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Santi{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/santi.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -413,13 +413,13 @@
 }
 
 #Santi:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/santi.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Sara{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/sara.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -434,7 +434,7 @@
 }
 
 #Sara:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/sara.jpg");
 	background-size:cover;
 	color:white;
 }
@@ -461,7 +461,7 @@
 }
 
 #Uwa{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/uwa.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -476,7 +476,7 @@
 }
 
 #Uwa:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/uwa.jpg");
 	background-size:cover;
 	color:white;
 }
@@ -503,7 +503,7 @@
 }
 
 #Esther{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/esther.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:3%;
@@ -518,13 +518,13 @@
 }
 
 #Esther:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/esther.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Joanne{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/joanne.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -539,13 +539,13 @@
 }
 
 #Joanne:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/joanne.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Michaela{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/michaela.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -560,13 +560,13 @@
 }
 
 #Michaela:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/michaela.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Nathan{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/nathan.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -581,13 +581,13 @@
 }
 
 #Nathan:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/nathan.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Rachel{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/rachel.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -602,13 +602,13 @@
 }
 
 #Rachel:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/rachel.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Ruby{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/ruby.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -623,7 +623,7 @@
 }
 
 #Ruby:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/ruby.jpg");
 	background-size:cover;
 	color:white;
 }
@@ -671,7 +671,7 @@
 }
 
 #Xavier{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/xavier.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -686,13 +686,13 @@
 }
 
 #Xavier:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/xavier.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Luna{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/luna.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -707,13 +707,13 @@
 }
 
 #Luna:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/luna.jpg");
 	background-size:cover;
 	color:white;
 }
 
 #Paul{
-	background:url("/images/Sara.jpeg");
+	background:url("/images/memberpics/paul.jpg");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -728,7 +728,7 @@
 }
 
 #Paul:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/Sara.jpeg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/paul.jpg");
 	background-size:cover;
 	color:white;
 }
