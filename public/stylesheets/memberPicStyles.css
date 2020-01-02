@@ -19,26 +19,6 @@
 	color:white;
 }
 
-#Ben{
-	background:url("/images/memberpics/ben.jpg");
-	background-size:cover;
-	text-align:center;
-	padding-top:5%;
-	padding-bottom:5%;
-	height:250px;
-	width:250px;
-	color:rgba(0,0,0,0);
-	-webkit-transition-property: color || background;
-  	-webkit-transition-duration:.5s;
-	transition-property:color || background;
-	transition-duration: .5s;
-}
-
-#Ben:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/ben.jpg");
-	background-size:cover;
-	color:white;
-}
 
 #Dahlia{
 	background:url("/images/memberpics/dahlia.jpg");
@@ -82,26 +62,6 @@
 	color:white;
 }
 
-#KatherineO{
-	background:url("/images/memberpics/katherineo.jpg");
-	background-size:cover;
-	text-align:center;
-	padding-top:3%;
-	padding-bottom:3%;
-	height:250px;
-	width:250px;
-	color:rgba(0,0,0,0);
-	-webkit-transition-property: color || background;
-  	-webkit-transition-duration:.5s;
-	transition-property:color || background;
-	transition-duration: .5s;
-}
-
-#KatherineO:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/katherineo.jpg");
-	background-size:cover;
-	color:white;
-}
 
 #Prince{
 	background:url("/images/memberpics/prince.jpg");
@@ -124,26 +84,6 @@
 	color:white;
 }
 
-#Abby{
-	background:url("/images/memberpics/abby.jpg");
-	background-size:cover;
-	text-align:center;
-	padding-top:5%;
-	padding-bottom:5%;
-	height:250px;
-	width:250px;
-	color:rgba(0,0,0,0);
-	-webkit-transition-property: color || background;
-  	-webkit-transition-duration:.5s;
-	transition-property:color || background;
-	transition-duration: .5s;
-}
-
-#Abby:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/abby.jpg");
-	background-size:cover;
-	color:white;
-}
 
 #Austin{
 	background:url("/images/memberpics/austin.jpg");
@@ -687,48 +627,6 @@
 
 #Xavier:hover{
 	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/xavier.jpg");
-	background-size:cover;
-	color:white;
-}
-
-#Luna{
-	background:url("/images/memberpics/luna.jpg");
-	background-size:cover;
-	text-align:center;
-	padding-top:5%;
-	padding-bottom:5%;
-	height:250px;
-	width:250px;
-	color:rgba(0,0,0,0);
-	-webkit-transition-property: color || background;
-  	-webkit-transition-duration:.5s;
-	transition-property:color || background;
-	transition-duration: .5s;
-}
-
-#Luna:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/luna.jpg");
-	background-size:cover;
-	color:white;
-}
-
-#Paul{
-	background:url("/images/memberpics/paul.jpg");
-	background-size:cover;
-	text-align:center;
-	padding-top:5%;
-	padding-bottom:5%;
-	height:250px;
-	width:250px;
-	color:rgba(0,0,0,0);
-	-webkit-transition-property: color || background;
-  	-webkit-transition-duration:.5s;
-	transition-property:color || background;
-	transition-duration: .5s;
-}
-
-#Paul:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/paul.jpg");
 	background-size:cover;
 	color:white;
 }
