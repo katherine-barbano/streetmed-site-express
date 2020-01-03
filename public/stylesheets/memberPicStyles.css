@@ -296,7 +296,7 @@
 }
 
 #Mabelle{
-	background:url("/images/memberpics/mabelle.jpg");
+	background:url("/images/memberpics/mabelle.png");
 	background-size:cover;
 	text-align:center;
 	padding-top:5%;
@@ -311,7 +311,7 @@
 }
 
 #Mabelle:hover{
-	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/mabelle.jpg");
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/mabelle.png");
 	background-size:cover;
 	color:white;
 }
