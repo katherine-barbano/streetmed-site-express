@@ -630,3 +630,171 @@
 	background-size:cover;
 	color:white;
 }
+
+#Jasmine{
+	background:url("/images/memberpics/jasmine.jpg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Jasmine:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/jasmine.jpg");
+	background-size:cover;
+	color:white;
+}
+
+#Lihua{
+	background:url("/images/memberpics/lihua.jpg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Lihua:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/lihua.jpg");
+	background-size:cover;
+	color:white;
+}
+
+#Luqman{
+	background:url("/images/memberpics/luqman.jpg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Luqman:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/luqman.jpg");
+	background-size:cover;
+	color:white;
+}
+
+#Max{
+	background:url("/images/memberpics/max.jpg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Max:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/max.jpg");
+	background-size:cover;
+	color:white;
+}
+
+#Niam{
+	background:url("/images/memberpics/niam.jpg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Niam:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/niam.jpg");
+	background-size:cover;
+	color:white;
+}
+
+#Quilago{
+	background:url("/images/memberpics/quilago.jpg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Quilago:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/quilago.jpg");
+	background-size:cover;
+	color:white;
+}
+
+#Uyen{
+	background:url("/images/memberpics/uyen.jpg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Uyen:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/uyen.jpg");
+	background-size:cover;
+	color:white;
+}
+
+#Sarahh{
+	background:url("/images/memberpics/sarahh.jpg");
+	background-size:cover;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:5%;
+	height:250px;
+	width:250px;
+	color:rgba(0,0,0,0);
+	-webkit-transition-property: color || background;
+  	-webkit-transition-duration:.5s;
+	transition-property:color || background;
+	transition-duration: .5s;
+}
+
+#Sarahh:hover{
+	background:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("/images/memberpics/sarahh.jpg");
+	background-size:cover;
+	color:white;
+}
