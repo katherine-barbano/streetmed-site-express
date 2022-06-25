@@ -5,7 +5,7 @@ Website for Duke Street Medicine written in Node.js, Express, HTML, CSS.
 Check it out at https://dukestreetmedicine.herokuapp.com/
 
 # Authors
-- [Katherine Barbano](katherine-barbano)
+- [Katherine Barbano](https://github.com/katherine-barbano)
 
 Add your Github username here.
 
@@ -14,19 +14,15 @@ Add your Github username here.
 1. Download and install Node.js from https://nodejs.org/en/
 2. Install Express framework for Node using 
 
-`
-    
+```
     npm install express
-
-`
+```
 
 3. Start the app using
 
-`
-
+```
     npm start
-
-`
+```
 
 4. Open the app locally at http://localhost:3000/
 
@@ -72,21 +68,22 @@ Tasks that should be completed annually include:
 
 1. Add new attribute with name of the person and another new attribute for hover. Example:
 
-`
-
+```
     #Katherine { 
-    styling 
+
+        /styling/
+
     }
 
     #Katherine:hover {
-        styling
+
+        /styling/
+
     }
-`
+```
 
 2. Add a new div in views/members.ejs with the id referring to the css styling completed in step 1.
 
-`
-
+```
         	<div class="col-xs-12 col-sm-4 col-lg-3" id="KatherineB"><h2>Katherine Barbano</h2><h4>Junior</h4><h4>Season V</h4></div>
-
-`
+```
